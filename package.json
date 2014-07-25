@@ -1,0 +1,15 @@
+{
+  "title": "Gulp for Firefox",
+  "name": "jp-fx-gulp",
+  "version": "0.0.0",
+  "description": "A devtools extension for gulp-based projects",
+  "main": "index.js",
+  "author": "Jeff Griffiths ( @canuckistani )",
+  "icon": "./data/images/gulp-devtools-16x16.png",
+  "icon64": "./data/images/gulp.png",
+  "engines": {
+    "firefox": ">=30.0",
+    "fennec": ">=30.0"
+  },
+  "license": "MIT"
+}
